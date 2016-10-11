@@ -10,14 +10,14 @@ namespace System.Reactive.Tests
 	public abstract class Spec
 	{
 		[DebuggerStepThrough]
-		[OneTimeSetUp]
+		[TestFixtureSetUp]
 		public void SetUp() {
 			EstablishContext();
 			BecauseOf();
 		}
 
 		[DebuggerStepThrough]
-		[OneTimeTearDown]
+		[TestFixtureTearDown]
 		public void TearDown() {
 			Cleanup();
 		}

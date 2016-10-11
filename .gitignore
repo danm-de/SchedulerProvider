@@ -252,3 +252,6 @@ packages/
 # JetBrains Rider
 .idea/
 *.sln.iml
+
+# Build output
+.build/

@@ -268,20 +268,8 @@ NUGET
       System.Threading.Timer (>= 4.0.1) - framework: >= net451, >= netstandard12
       System.Xml.ReaderWriter (>= 4.0.11) - framework: >= netstandard10
       System.Xml.XDocument (>= 4.0.11) - framework: >= netstandard10
-    NUnit (3.5)
-    NUnit.ConsoleRunner (3.4.1)
-    NUnit.Extension.NUnitProjectLoader (3.5)
-    NUnit.Extension.NUnitV2Driver (3.5)
-    NUnit.Extension.NUnitV2ResultWriter (3.5)
-    NUnit.Extension.TeamCityEventListener (1.0.2)
-    NUnit.Extension.VSProjectLoader (3.5)
-    NUnit.Runners (3.4.1)
-      NUnit.ConsoleRunner (>= 3.4.1)
-      NUnit.Extension.NUnitProjectLoader (>= 3.4.1)
-      NUnit.Extension.NUnitV2Driver (>= 3.4.1)
-      NUnit.Extension.NUnitV2ResultWriter (>= 3.4.1)
-      NUnit.Extension.TeamCityEventListener (>= 1.0.1)
-      NUnit.Extension.VSProjectLoader (>= 3.4.1)
+    NUnit (2.6.4)
+    NUnit.Runners (2.6.4)
     runtime.native.System (4.0) - framework: >= netstandard13
       Microsoft.NETCore.Platforms (>= 1.0.1)
       Microsoft.NETCore.Targets (>= 1.0.1)

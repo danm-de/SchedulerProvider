@@ -4,7 +4,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("System.Reactive.SchedulerProvider")]
 [assembly: AssemblyDescription("Injecting Reactive Extensions scheduler dependencies")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Daniel Mueller")]
 [assembly: AssemblyProduct("System.Reactive.SchedulerProvider")]
 [assembly: AssemblyCopyright("Copyright © 2016 by Daniel Mueller")]
 [assembly: AssemblyTrademark("")]
