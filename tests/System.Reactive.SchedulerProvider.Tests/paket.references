@@ -1,0 +1,7 @@
+﻿System.Reactive
+System.Reactive.Interfaces
+
+group Test
+	NUnit
+	NUnit.Runners
+	FluentAssertions

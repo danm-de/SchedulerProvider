@@ -1,0 +1,5 @@
+﻿type project
+id System.Reactive.SchedulerProvider
+projectUrl https://github.com/danm-de/SchedulerProvider
+excludeddependencies
+  JetBrains.Annotations
